@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Data Analysis Using Python📊<br>🎯 Goals: To get better at problem solving And working with data<br>👨‍💻Tools: Git, VS Code, Jupyter Notebook</p>
+<p align="left">📚 I'm currently learning Data Science Using Python📊<br>🎯 Goals: To get better at problem solving And working with data<br>👨‍💻Tools: Git, VS Code, Jupyter Notebook</p>
 
 ###
 
